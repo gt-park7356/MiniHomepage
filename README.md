@@ -31,3 +31,7 @@
 > 인용문
 
 ![download](https://github.com/user-attachments/assets/150b191c-04ea-4fff-a43e-eb9fec247b63)
+
+## 푸터 추가
+
+- footer.md 파일 추가
