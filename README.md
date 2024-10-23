@@ -35,3 +35,7 @@
 ## 푸터 추가
 
 - footer.md 파일 추가
+
+## sidebar 개발
+
+- sidebar.md 파일 추가
